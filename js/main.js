@@ -1,3 +1,8 @@
+/*
+Daniel Yevtushenko - 200528781
+Jenna Deamer - 200529678
+*/
+
 const url = `https://api.thecatapi.com/v1/images/search?limit=1&has_breeds=1`;
 const api_key =
     "live_ZkQwYEHUxtdtG3mJB59DUtuNvk7CKcRf9vxzoUwYl7BKnOPBPCEQOGE74tdbXHyw";
